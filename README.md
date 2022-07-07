@@ -1,4 +1,4 @@
-# Projects-in-Yandex-Practicum
+# Projects in Yandex-Practicum
 Completed projects during the training course "Data Analyst" (2022)
 
 `All projects are in a private repository`. To get to know them, write me an email `natalya.semenova1998@gmail.com`
